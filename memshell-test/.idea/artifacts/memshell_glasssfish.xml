@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="memshell-glasssfish">
+    <output-path>C:/output/artifacts/memshell_glasssfish</output-path>
+    <root id="archive" name="memshell-glasssfish.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="memshell-test-glassfish" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="memshell-test-glassfish/web/Web" />
+    </root>
+  </artifact>
+</component>

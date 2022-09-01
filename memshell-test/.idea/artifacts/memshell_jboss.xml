@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="memshell-jboss">
+    <output-path>C:/output/artifacts/memshell_jboss</output-path>
+    <root id="archive" name="memshell-jboss.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="memshell-test-jboss" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="memshell-test-jboss/web/Web" />
+    </root>
+  </artifact>
+</component>

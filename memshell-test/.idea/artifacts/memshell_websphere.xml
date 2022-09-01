@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="memshell-websphere">
+    <output-path>C:/output/artifacts/memshell_websphere</output-path>
+    <root id="archive" name="memshell-websphere.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="memshell-test-websphere" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="memshell-test-websphere/web/Web" />
+    </root>
+  </artifact>
+</component>

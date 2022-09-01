@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="memshell-apusic">
+    <output-path>C:/output/artifacts/memshell_apusic</output-path>
+    <root id="archive" name="memshell-apusic.war" />
+  </artifact>
+</component>

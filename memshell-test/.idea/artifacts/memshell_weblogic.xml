@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="memshell-weblogic">
+    <output-path>C:/output/artifacts/memshell_weblogic</output-path>
+    <root id="archive" name="memshell-weblogic.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="memshell-test-weblogic" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="memshell-test-weblogic/web/Web" />
+    </root>
+  </artifact>
+</component>

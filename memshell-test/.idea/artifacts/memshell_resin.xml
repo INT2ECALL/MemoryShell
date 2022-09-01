@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="memshell-resin">
+    <output-path>C:/output/artifacts/memshell_resin</output-path>
+    <root id="archive" name="memshell-resin.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="memshell-test-resin" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="memshell-test-resin/web/Web" />
+    </root>
+  </artifact>
+</component>

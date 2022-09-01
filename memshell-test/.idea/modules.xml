@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/memshell-test.iml" filepath="$PROJECT_DIR$/memshell-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memshell-test-apusic/memshell-test-apusic.iml" filepath="$PROJECT_DIR$/memshell-test-apusic/memshell-test-apusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memshell-test-bes/memshell-test-bes.iml" filepath="$PROJECT_DIR$/memshell-test-bes/memshell-test-bes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memshell-test-glassfish/memshell-test-glassfish.iml" filepath="$PROJECT_DIR$/memshell-test-glassfish/memshell-test-glassfish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memshell-test-inforsuite/memshell-test-inforsuite.iml" filepath="$PROJECT_DIR$/memshell-test-inforsuite/memshell-test-inforsuite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memshell-test-jboss/memshell-test-jboss.iml" filepath="$PROJECT_DIR$/memshell-test-jboss/memshell-test-jboss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memshell-test-jetty/memshell-test-jetty.iml" filepath="$PROJECT_DIR$/memshell-test-jetty/memshell-test-jetty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memshell-test-resin/memshell-test-resin.iml" filepath="$PROJECT_DIR$/memshell-test-resin/memshell-test-resin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memshell-test-tomcat/memshell-test-tomcat.iml" filepath="$PROJECT_DIR$/memshell-test-tomcat/memshell-test-tomcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memshell-test-tongweb/memshell-test-tongweb.iml" filepath="$PROJECT_DIR$/memshell-test-tongweb/memshell-test-tongweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memshell-test-weblogic/memshell-test-weblogic.iml" filepath="$PROJECT_DIR$/memshell-test-weblogic/memshell-test-weblogic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memshell-test-websphere/memshell-test-websphere.iml" filepath="$PROJECT_DIR$/memshell-test-websphere/memshell-test-websphere.iml" />
+    </modules>
+  </component>
+</project>
